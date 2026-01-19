@@ -38,7 +38,5 @@ Model evaluation and optimization
 Real-world data projects for portfolio building
 📬 Contact
 If you would like to collaborate, give feedback, or discuss opportunities:
-GitHub: https://github.com/your-username
-LinkedIn: (add later if you want)
 ⭐ Acknowledgement
 Some datasets used in these projects are sourced from publicly available platforms and are used strictly for learning and portfolio purposes.
